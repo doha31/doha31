@@ -57,5 +57,3 @@ Here are some ideas to get you started:
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=doha31&theme=tokyonight" alt="doha31" /></p>
 
 
-## 🐍 My contrributions:
-<p img align="center" ><img src="https://raw.githubusercontent.com/doha31/doha31/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake eating my contributions" /></p>
